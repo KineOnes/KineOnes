@@ -1,6 +1,6 @@
 ## About me
 
-Hi, I'm Kine. Front End Development student with a passion for design.
+👋 Hi there! I'm Kine, a 34-year-old from Norway diving into the creative tech world. I studied art history, Graphic Design in Oslo, and Illustration in Trondheim. Now, I'm a Noroff online student, learning front-end development. 🖥️ Passionate about making sleek online profiles, I blend simplicity and Scandinavian charm. I love learning, sipping coffee, and finding inspiration outdoors. Let's create something beautiful together! ☕✨
 
 
 | Rank | EDUCATION         |
